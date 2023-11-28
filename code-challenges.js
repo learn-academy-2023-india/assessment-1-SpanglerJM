@@ -71,3 +71,4 @@ const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 //   }
 
 //  but it not seeming to work for me and I cant really get it going, but I feel I am close. I know it should be a function with the % modulo in use. maybe im forgetting where to utilize return in this scenario.
+// While i dont know now Im sure i could find out with a classmates help
